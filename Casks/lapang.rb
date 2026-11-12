@@ -1,6 +1,6 @@
 cask "lapang" do
-  version "0.2.0"
-  sha256 "2786e3656c02244360d58154a8bdbb427b56d92091d438c145733ac5c8f7c8e5"
+  version "0.2.1"
+  sha256 "2b9c969b7a8465ab1e2e34786e73b12a6e5cecd4a4c387609f353317559d6a53"
 
   url "https://github.com/afiqsazlan/lapang/releases/download/v#{version}/Lapang-#{version}.zip"
   name "Lapang"
